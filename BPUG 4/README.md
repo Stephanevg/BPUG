@@ -1,16 +1,16 @@
 
 
-4th BPUG meeting:
+#4th BPUG meeting:
 
-Meeting date  --> Thursday  26.11.2015
+**Meeting date**  --> Thursday  26.11.2015
 
-Next Meeting: --> Wednesday 24.02.2016
+**Next Meeting:** --> Wednesday 24.02.2016
 
-Presenters:
+##Presenters:
 
-Stéphane van Gulick – Introduction to PowerShell 5.0 classes: practical use case using PowerShell classes
+**Stéphane van Gulick** – Introduction to PowerShell 5.0 classes: practical use case using PowerShell classes
 
-Stefan Roth – End to end Automation Using PowerShell and Service Manager
+**Stefan Roth** – End to end Automation Using PowerShell and Service Manager
 
 
 
