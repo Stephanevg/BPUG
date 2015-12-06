@@ -3,6 +3,7 @@
 4th BPUG meeting:
 
 Meeting date  --> Thursday  26.11.2015
+
 Next Meeting: --> Wednesday 24.02.2016
 
 Presenters:
