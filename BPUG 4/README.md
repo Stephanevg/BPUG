@@ -1,6 +1,15 @@
 
 
+4th BPUG meeting:
 
-This is the official GitHub repository that host all code and slide decks that is presented during the Basel PowerShell userGroup meetings.
+Meeting date  --> Thursday  26.11.2015
+Next Meeting: --> Wednesday 24.02.2016
 
-Info on next gatherings and meetings can be found here --> http://powershelldistrict.com/category/bpug/
+Presenters:
+
+  --> Stéphane van Gulick – Introduction to PowerShell 5.0 classes: practical use case using PowerShell classes
+  --> Stefan Roth – End to end Automation Using PowerShell and Service Manager
+
+
+
+
